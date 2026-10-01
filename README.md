@@ -3,7 +3,7 @@
 ![CI-CD](https://github.com/CarisR/ics499-cicd-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 **Live site (GitHub Pages):** https://CarisR.github.io/ics499-cicd-demo/  
-**Live site (Render):** https://YOUR-RENDER-SITE.onrender.com
+**Live site (Render):** https://ics499-cicd-carisr.onrender.com/
 
 A tiny project used in ICS 499 (Week 6) to show Git, GitHub, CI, and CD working together.
 
